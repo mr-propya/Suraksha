@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">सुरक्षा</string>
+    <string name="title_activity_maps">नक्शा</string>
+    <string name="tmt_destination">डेस्टिनेशन टाइप करें</string>
+    <string name="submit_destination">आगे</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="latitude">अक्षांश:</string>
+    <string name="longitude">देशान्तर:</string>
+    <string name="track_my_travel">यात्रा पे ध्यान राखो</string>
+    <string name="domestic_violence_laws">घरेलू हिंसा कानून</string>
+    <string name="read_more_article">अधिक पढ़ें : https://www.legalserviceindia.com/articles/dmt.htm  https:/wcd.nic.in/sites/default/files/wdvact.pdf</string>
+    <string name="helplines">हेल्पलाइन</string>
+    <string name="emergency_contacts">पुलिस - 100  घरेलू शोषण के लिए महिला हेल्पलाइन संपर्क - 181  केंद्रीय समाज कल्याण बोर्ड - पुलिस हेल्पलाइन - (011) 23317004 संकट में महिलाएँ - 1091 महिलाओं के लिए राष्ट्रीय आयोग - 011-23237166, 23234918</string>
+    <string name="other_resources">अन्य संसाधन</string>
+    <string name="women_websites">https://www.naaree.com/domestic-violence-helplines-india/ https://yourstory.com/herstory/2019/07/women-protection-domestic-violence</string>
+    <string name="answer_a_few_questions">कुछ सवालों के जवाब प्रदान करें</string>
+    <string name="determine_domestic_violence">यदि आप घरेलू हिंसा के जोखिम पर हैं तो खोजें!</string>
+    <string name="survey_button">सर्वेक्षण करें</string>
+    <string name="directions_to_nearest_route">निकटतम मार्ग के लिए रास्ता</string>
+    <string name="raise_an_emergency_call">आपातकालीन कॉल करें</string>
+    <string name="connect_to_a_family_member">परिवार के सदस्य से कनेक्ट करें</string>
+    <string name="wait_check_details">कृपया प्रतीक्षा करें जब तक हम विवरण की जाँच नहीं करते</string>
+    <string name="welcome_back_user">स्वागत हे</string>
+    <string name="name">नाम</string>
+    <string name="address">पता</string>
+    <string name="give_emergency_contacts">कृपया अपने आपातकालीन संपर्क प्रदान करें</string>
+    <string name="name_1">नाम 1</string>
+    <string name="name_2">नाम 2</string>
+    <string name="name_3">नाम 3</string>
+    <string name="phone">फ़ोन</string>
+    <string name="nearby_safe_places">पास की सुरक्षित जगह</string>
+    <string name="enter_emergency_contacts">कृपया आपातकालीन संपर्क नंबर दर्ज करें</string>
+    <string name="enter_emergency_contact_1">आपातकालीन संपर्क नंबर 1 दर्ज करें</string>
+    <string name="enter_emergency_contact_2">आपातकालीन संपर्क नंबर 2 दर्ज</string>
+    <string name="enter_emergency_contact_3">आपातकालीन संपर्क नंबर 3 दर्ज</string>
+    <string name="enter_emergency_contact_4">आपातकालीन संपर्क नंबर 4 दर्ज</string>
+    <string name="enter_emergency_contact_5">आपातकालीन संपर्क नंबर 5 दर्ज</string>
+</resources>

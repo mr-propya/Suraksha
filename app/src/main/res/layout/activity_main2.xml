@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="#06000E"
+    tools:context=".Activities.MainActivity">
+    <ImageView
+        android:id="@+id/imageView13"
+        android:layout_width="172dp"
+        android:layout_height="328dp"
+        android:layout_marginEnd="176dp"
+        android:layout_margin="15dp"
+        app:srcCompat="@drawable/rectangle_3" />
+    <ImageView
+        android:id="@+id/imageView17"
+        android:layout_width="172dp"
+        android:layout_height="328dp"
+        android:layout_margin="15dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        app:srcCompat="@drawable/rectangle_3" />
+    <ImageView
+        android:id="@+id/soundlight"
+        android:layout_width="172dp"
+        android:layout_height="328dp"
+        android:layout_margin="15dp"
+        android:layout_alignParentRight="true"
+        app:srcCompat="@drawable/rectangle_3" />
+    <ImageView
+        android:id="@+id/imageView19"
+        android:layout_width="172dp"
+        android:layout_height="328dp"
+        android:layout_margin="15dp"
+        android:layout_alignParentBottom="true"
+
+        app:srcCompat="@drawable/rectangle_3" />
+<!--    <ImageView-->
+<!--        android:id="@+id/imageView34"-->
+<!--        android:layout_width="189dp"-->
+<!--        android:layout_height="62dp"-->
+<!--        android:layout_centerVertical="true"-->
+<!--        app:srcCompat="@drawable/line" />-->
+
+<!--    <ImageView-->
+<!--        android:id="@+id/imageView35"-->
+<!--        android:layout_width="204dp"-->
+<!--        android:layout_height="54dp"-->
+<!--        android:layout_centerVertical="true"-->
+<!--        android:layout_alignParentRight="true"-->
+<!--        app:srcCompat="@drawable/line" />-->
+
+<!--    <ImageView-->
+<!--        android:id="@+id/imageView36"-->
+<!--        android:layout_width="27dp"-->
+<!--        android:layout_height="301dp"-->
+<!--        android:layout_marginStart="3dp"-->
+<!--        android:layout_centerHorizontal="true"-->
+<!--        app:srcCompat="@drawable/lineh" />-->
+
+<!--    <ImageView-->
+<!--        android:id="@+id/imageView37"-->
+<!--        android:layout_width="27dp"-->
+<!--        android:layout_height="291dp"-->
+<!--        android:layout_centerHorizontal="true"-->
+<!--        android:layout_alignParentBottom="true"-->
+<!--        app:srcCompat="@drawable/lineh" />-->
+    <View
+        android:layout_width="3dp"
+        android:layout_height="match_parent"
+        android:background="#ffffff"
+        android:layout_centerHorizontal="true"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="3dp"
+        android:background="#ffffff"
+        android:layout_centerVertical="true"/>
+    <ImageView
+        android:id="@+id/imageView22"
+        android:layout_width="172dp"
+        android:layout_height="193dp"
+        android:layout_centerInParent="true"
+        app:srcCompat="@drawable/ellipse_2" />
+    <ImageView
+        android:id="@+id/imageView23"
+        android:layout_width="137dp"
+        android:layout_height="157dp"
+        android:layout_centerInParent="true"
+        app:srcCompat="@drawable/path_1" />
+    <ImageView
+        android:id="@+id/imageView24"
+        android:layout_width="173dp"
+        android:layout_height="154dp"
+        android:layout_centerInParent="true"
+        app:srcCompat="@drawable/group_13" />
+
+    <ImageView
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_above="@id/NearestSafePlace"
+        android:layout_marginEnd="-5dp"
+        android:layout_marginBottom="-26dp"
+        android:layout_toStartOf="@id/imageView22"
+        app:srcCompat="@drawable/group170" />
+
+    <ImageView
+        android:id="@+id/NearestSafePlace"
+        android:layout_width="170dp"
+        android:layout_height="181dp"
+        android:layout_centerVertical="true"
+        android:layout_above="@id/imageView22"
+        android:layout_marginStart="15dp"
+        app:srcCompat="@drawable/group_7" />
+
+    <ImageView
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_above="@id/soundLight"
+        android:layout_marginStart="-3dp"
+        android:layout_marginEnd="-5dp"
+        android:layout_marginBottom="-10dp"
+        android:layout_toEndOf="@id/imageView22"
+        app:srcCompat="@drawable/torch" />
+
+    <ImageView
+        android:id="@+id/soundLight"
+        android:layout_width="156dp"
+        android:layout_height="150dp"
+        android:layout_above="@id/imageView22"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginEnd="15dp"
+        android:layout_marginRight="19dp"
+        android:layout_marginBottom="11dp"
+        app:srcCompat="@drawable/group_10" />
+
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_above="@id/unsafe"
+        android:layout_marginEnd="-27dp"
+        android:layout_marginBottom="-80dp"
+        android:layout_toStartOf="@id/imageView22"
+        app:srcCompat="@drawable/unsafealert" />
+
+    <ImageView
+        android:id="@+id/unsafe"
+        android:layout_width="162dp"
+        android:layout_height="145dp"
+        android:layout_below="@id/imageView22"
+        android:layout_alignParentLeft="true"
+        android:layout_centerInParent="true"
+        android:layout_marginStart="15dp"
+        android:layout_marginLeft="18dp"
+        android:layout_marginTop="56dp"
+        app:srcCompat="@drawable/group_12" />
+
+    <ImageView
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:layout_above="@id/placebtn"
+        android:layout_marginStart="-57dp"
+        android:layout_marginEnd="-5dp"
+        android:layout_marginBottom="-155dp"
+        android:layout_toEndOf="@id/imageView22"
+        app:srcCompat="@drawable/tracktravel" />
+
+    <ImageView
+        android:id="@+id/placebtn"
+        android:layout_width="172dp"
+        android:layout_height="149dp"
+        android:layout_below="@id/imageView22"
+        android:layout_alignParentRight="true"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="55dp"
+        android:layout_marginEnd="15dp"
+        android:layout_marginRight="15dp"
+        android:onClick="openAutocomplete"
+        app:srcCompat="@drawable/group_11" />
+
+
+</RelativeLayout>

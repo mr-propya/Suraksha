@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Suraksha</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="tmt_destination">Enter Destination</string>
+    <string name="submit_destination">Enter</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="latitude">Latitude:</string>
+    <string name="longitude">Longitude:</string>
+    <string name="track_my_travel">Track My Travel</string>
+    <string name="domestic_violence_laws">Domestic Violence Laws</string>
+    <string name="read_more_article">Read more here : https://www.legalserviceindia.com/articles/dmt.htm  https:/wcd.nic.in/sites/default/files/wdvact.pdf</string>
+    <string name="helplines">HelpLines</string>
+    <string name="emergency_contacts">Police - 100  Women Helpline Domestic Abuse - 181  Central Social Welfare Board - Police Helpline - (011) 23317004 Women In Distress - 1091 National Commission for Women - 011-23237166, 23234918</string>
+    <string name="other_resources">Other resources</string>
+    <string name="women_websites">https://www.naaree.com/domestic-violence-helplines-india/ https://yourstory.com/herstory/2019/07/women-protection-domestic-violence</string>
+    <string name="answer_a_few_questions">ANSWER A FEW QUESTIONS</string>
+    <string name="determine_domestic_violence">Determine if you are at risk of domestic violence!</string>
+    <string name="survey_button">Survey button</string>
+    <string name="directions_to_nearest_route">Directions to nearest route</string>
+    <string name="raise_an_emergency_call">Raise an Emergency Call</string>
+    <string name="connect_to_a_family_member">Connect to a family member</string>
+    <string name="wait_check_details">Please wait while we check your details...</string>
+    <string name="welcome_back_user">Welcome back user</string>
+    <string name="name">Name</string>
+    <string name="address">Address</string>
+    <string name="give_emergency_contacts">Please help with your emergency contacts</string>
+    <string name="name_1">Name 1</string>
+    <string name="name_2">Name 2</string>
+    <string name="name_3">Name 3</string>
+    <string name="phone">Phone</string>
+    <string name="nearby_safe_places">NEARBY SAFE PLACES</string>
+    <string name="enter_emergency_contacts">Please Enter the Emergency contact numbers.</string>
+    <string name="enter_emergency_contact_1">Enter Emergency contact 1</string>
+    <string name="enter_emergency_contact_2">Enter Emergency contact 2</string>
+    <string name="enter_emergency_contact_3">Enter Emergency contact 3</string>
+    <string name="enter_emergency_contact_4">Enter Emergency contact 4</string>
+    <string name="enter_emergency_contact_5">Enter Emergency contact 5</string>
+</resources>

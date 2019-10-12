@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/enter_emergency_contacts"
+        android:textSize="15dp"
+        android:layout_gravity="center"
+        android:padding="15dp">
+
+    </TextView>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/enter_emergency_contact_1"
+        android:padding="15dp"
+        android:layout_margin="10dp"
+        android:id="@+id/ec1">
+    </EditText>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/enter_emergency_contact_2"
+        android:padding="15dp"
+        android:layout_margin="10dp"
+        android:id="@+id/ec2">
+    </EditText>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/enter_emergency_contact_3"
+        android:padding="15dp"
+        android:layout_margin="10dp"
+        android:id="@+id/ec3">
+    </EditText>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/enter_emergency_contact_4"
+        android:padding="15dp"
+        android:layout_margin="10dp"
+        android:id="@+id/ec4">
+    </EditText>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/enter_emergency_contact_5"
+        android:padding="15dp"
+        android:layout_margin="10dp"
+        android:id="@+id/ec5">
+    </EditText>
+
+
+
+</LinearLayout>
