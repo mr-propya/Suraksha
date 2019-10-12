@@ -1,5 +1,8 @@
 # Suraksha Mobile Application
 
+### Team Name: **Hacking Bad**
+### Team ID: **MH290**
+
 **Suraksha** is a mobile application built during **Manipal Hackathon 2019**.
 It's aim is to lend a helping hand to women by keeping them alert of their surroundings. At the same time, Suraksha also provides various services in case of emergency situations.
 
@@ -7,7 +10,7 @@ It's aim is to lend a helping hand to women by keeping them alert of their surro
 ## Installation
 Clone this repository and import into **Android Studio v3.6 (Canary Version)**
 ```bash
-git clone https://gitlab.com/maheshtamse.13/surakshaandroidnode.git
+git clone https://github.com/mr-propya/Suraksha.git
 ```
 
 ## Permissions
